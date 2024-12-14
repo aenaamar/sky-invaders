@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/startpage.unity
+    guid: 1fc25a15745228f49ba4bc991199024b
+  - enabled: 1
+    path: Assets/skyivaders_1.unity
+    guid: e0211a7796bb8b74bb97726bade47fb6
+  - enabled: 1
+    path: Assets/leveltwo.unity
+    guid: d27e904fe524abd4b86c7c45bbd7640d
+  - enabled: 1
+    path: Assets/skyivaders_3.unity
+    guid: a7d098074a45a4d458dc18e84e246d6a
+  - enabled: 1
+    path: Assets/gameoverscene.unity
+    guid: ffe69ef75b0d97f4d8a13d4d96c125ef
+  m_configObjects: {}
